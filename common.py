@@ -1,0 +1,2 @@
+class NifiError(Exception):
+    pass
